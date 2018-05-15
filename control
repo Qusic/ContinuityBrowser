@@ -1,0 +1,12 @@
+Package: me.qusic.continuitybrowser
+Name: Chrome Handoff
+Version: 0.1
+Description: Handoff Webpage to Chrome
+Section: Tweaks
+Depends: mobilesubstrate
+Priority: optional
+Architecture: iphoneos-arm
+Author: Qusic <hi@qusic.me>
+Maintainer: Qusic <hi@qusic.me>
+Sponsor: Qusic <hi@qusic.me>
+Tag: purpose::extension
